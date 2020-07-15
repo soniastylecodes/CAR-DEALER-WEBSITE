@@ -1,0 +1,42 @@
+view port is the part of the page on the browser that one can see once u open ur browser 
+without scrolling left, right, up or down.
+
+2084127417 zenith
+
+
+box shadow
+vs, hs, blur
+
+paralax effect==== this makes the image or element static/fixed... the body moves leaving that element in place
+
+position absolute=== take a specific position. we are specific about where we want it to be
+position relative=== take position just in relation to ur parent element
+
+            BLACKWINDOW
+
+CLI=== command line interface.
+cd==== chamge directory
+cd.. ==== to go out of a folder
+cd (any folder name) === enter a folder
+DIR==== directory
+mkdir==== make directory
+
+    TO UPLOAD PROJECT ON SURGE
+after surge installation, 
+cd placeher
+dir===this shows all files in placeher
+cd fashion
+surge fasshion. 
+u will be given room for email
+then password
+after these u hit enter to confirm directory where the project is.
+a domain name will be given. edit the name without tampering with the .surge.sh
+
+
+ASSIGNMENT
+
+nav and footer=== full width
+all pages should have title except the index...
+
+
+json place. a home away from home
